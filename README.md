@@ -1,37 +1,37 @@
-<h2 align="center">👋 Xin chào! Tôi là Arriety</h2>
+<h2 align="center">👋 Hi there! I'm Arriety</h2>
 
 <p align="center">
   <i>
-    Tôi là một <b>nhà phát triển tự học</b>, bắt đầu từ năm 16 tuổi (2022).<br>
-    Phát triển hệ thống và khám phá cách vận hành của máy chủ game là niềm đam mê lớn nhất của tôi.
+    I'm a <b>self-taught developer</b> who started coding at the age of 16 (2022).<br>
+    Building systems and exploring how game servers work has become my biggest passion.
   </i>
 </p>
 
 ---
 
 <p align="center">
-  Tôi thích tìm hiểu cách <b>server game hoạt động</b> ở tầng sâu — từ các <b>design pattern</b> trong backend, 
-  cho đến <b>xử lý mạng</b> và <b>tối ưu hiệu năng hệ thống</b>.<br><br>
+  I enjoy learning how <b>game servers operate</b> under the hood — from <b>backend design patterns</b>, 
+  to <b>network handling</b> and <b>system performance optimization</b>.<br><br>
 
-  Ban đầu tôi theo đuổi mục tiêu trở thành <b>nhà phát triển game</b>, 
-  nhưng theo thời gian, tôi nhận ra mình thực sự yêu thích việc xây dựng <b>hệ thống server ổn định</b> 
-  và <b>các công cụ nội bộ hỗ trợ phát triển</b>.<br><br>
+  I initially aimed to become a <b>game developer</b>, 
+  but over time, I realized that what I truly love is building <b>stable server infrastructures</b> 
+  and <b>internal tools</b> that power the development process.<br><br>
 
-  Tôi biết mình vẫn còn rất nhiều điều cần học, 
-  và tôi không coi mình là chuyên gia — chỉ là người luôn cố gắng học hỏi, thử nghiệm, 
-  và tiến bộ hơn mỗi ngày.<br><br>
+  I know there's still a lot for me to learn, 
+  and I don’t consider myself an expert — just someone who keeps learning, experimenting, 
+  and improving every single day.<br><br>
 
-  Hiện tại, tôi đang theo học ngành <b>Công nghệ Thông tin</b> 
-  và tiếp tục trau dồi kỹ năng về <b>kiến trúc phần mềm</b>, 
-  <b>hệ thống backend</b> và <b>máy chủ game online</b>.
+  Currently, I'm pursuing a degree in <b>Information Technology</b> 
+  while continuing to grow my skills in <b>software architecture</b>, 
+  <b>backend systems</b>, and <b>online game servers</b>.
 </p>
 
 ---
 
-<h3 align="center">🧠 Ngôn ngữ tôi có kiến thức</h3>
+<h3 align="center">🧠 Languages I'm Familiar With</h3>
 
 <p align="center">
-  <b>Có kiến thức / Đang sử dụng:</b><br><br>
+  <b>Knowledgeable / Actively Using:</b><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <b>Đang học & khám phá thêm:</b>
+  <b>Currently Learning / Exploring:</b>
 </p>
 
 <div align="center">
