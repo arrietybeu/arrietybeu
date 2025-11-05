@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">🧠 Languages I'm Familiar With</h3>
+<h3 align="center"> Languages I'm Familiar With</h3>
 
 <p align="center">
   <b>Knowledgeable / Actively Using:</b><br><br>
@@ -52,6 +52,50 @@
 </div>
 
 ---
+
+<h3 align="center">🗄️ Databases & Tools I Use</h3>
+
+<p align="center">
+  <b>Databases:</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  &nbsp;&nbsp;
+  <img src="https://www.scylladb.com/wp-content/uploads/scylla-opensource-4.png" width="45" height="45" alt="ScyllaDB"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Tencent_Cloud_Logo.svg" width="90" height="35" alt="Tencent Cloud"/>
+</p>
+
+<p align="center">
+  <b>Tools & Technologies I Often Work With:</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  &nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_etcd.svg" width="45" height="45" alt="etcd"/>
+  &nbsp;&nbsp;
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="45" height="45" alt="Wireshark"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="45" height="45" alt="GitHub Actions"/>
+</p>
+
+
 
 <table align="center">
   <tr>
