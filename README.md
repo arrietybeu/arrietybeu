@@ -30,8 +30,6 @@
 
 <h3 align="center">🗄️ Databases & Tools I Use</h3>
 
-<p align="center"><b>Databases:</b></p>
-
 <table align="center">
   <tr>
     <td align="center" width="100">
