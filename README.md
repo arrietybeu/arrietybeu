@@ -53,10 +53,6 @@
       <br>ScyllaDB
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Tencent_Cloud_Logo.svg" width="90" height="35" alt="Tencent Cloud"/>
-      <br>Tencent Cloud
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="45" height="45" alt="Elasticsearch"/>
       <br>Elasticsearch
     </td>
