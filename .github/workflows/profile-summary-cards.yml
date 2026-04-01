@@ -13,8 +13,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "arrietybeu@gmail.com"
+          git config --local user.name "arrietybeu"
       
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
