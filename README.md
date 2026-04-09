@@ -5,39 +5,30 @@ I'm a <b>self-taught developer</b> who started coding at the age of 16 (2022).<b
 Building systems and exploring how game servers work has become my biggest passion.
 
 
-### Cloud & Infrastructure
-
-![Vietnix](https://img.shields.io/badge/Vietnix-FF6600?logo=serverfault&logoColor=white&style=flat-square)
-![Digitalocean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=flat-square)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?logo=windows&logoColor=white&style=flat-square)
-
-### Languages
+### Languages 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
-### Game Engine
-
-![Unity](https://img.shields.io/badge/Unity_6-000000?logo=unity&logoColor=white&style=flat-square)
-![Cocos2d-x](https://img.shields.io/badge/Cocos2d--x-55C2E1?logo=cocos&logoColor=white&style=flat-square)
-![Spine](https://img.shields.io/badge/Spine_2D-FF4040?logo=spine&logoColor=white&style=flat-square)
-
-### Frameworks & Backend
+### Frameworks, Game Engines & Tools
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?logo=rust&logoColor=white&style=flat-square)
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=flat-square)
-![Tonic gRPC](https://img.shields.io/badge/Tonic_gRPC-4285F4?logo=grpc&logoColor=white&style=flat-square)
+
+
+![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white&style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white&style=flat-square)
+![KCP/UDP](https://img.shields.io/badge/KCP%2FUDP-333333?logo=udp&logoColor=white&style=flat-square)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?logo=anthropic&logoColor=white&style=flat-square)
+![Unity](https://img.shields.io/badge/Unity_6-000000?logo=unity&logoColor=white&style=flat-square)
+![Cocos2d-x](https://img.shields.io/badge/Cocos2d--x-55C2E1?logo=cocos&logoColor=white&style=flat-square)
+![Spine](https://img.shields.io/badge/Spine_2D-FF4040?logo=spine&logoColor=white&style=flat-square)
+
 
 ### Databases & Cache
 
@@ -45,7 +36,7 @@ Building systems and exploring how game servers work has become my biggest passi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![ScyllaDB](https://img.shields.io/badge/ScyllaDB-6CD5A5?logo=scylladb&logoColor=white&style=flat-square)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-0055A8?logo=scylladb&logoColor=white&style=flat-square)
 
 ### DevOps & Infrastructure
 
@@ -53,21 +44,15 @@ Building systems and exploring how game servers work has become my biggest passi
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-
-### Networking & Protocol
-
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white&style=flat-square)
-![KCP/UDP](https://img.shields.io/badge/KCP%2FUDP-333333?logo=udp&logoColor=white&style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white&style=flat-square)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=white&style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?logo=anthropic&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?logo=windows&logoColor=white&style=flat-square)
+![Vietnix](https://img.shields.io/badge/Vietnix-FF6600?logo=serverfault&logoColor=white&style=flat-square)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
 
 ### GitHub Stats
 
