@@ -7,8 +7,8 @@ Building systems and exploring how game servers work has become my biggest passi
 
 ### Languages 
 
+![Rust](https://img.shields.io/badge/Rust-eaa33f?logo=rust&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
