@@ -19,16 +19,18 @@ Building systems and exploring how game servers work has become my biggest passi
 ![Tokio](https://img.shields.io/badge/Tokio-000000?logo=rust&logoColor=white&style=flat-square)
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=flat-square)
 
-
 ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white&style=flat-square)
+![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=white&style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white&style=flat-square)
 ![KCP/UDP](https://img.shields.io/badge/KCP%2FUDP-333333?logo=udp&logoColor=white&style=flat-square)
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?logo=anthropic&logoColor=white&style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity_6-000000?logo=unity&logoColor=white&style=flat-square)
 ![Cocos2d-x](https://img.shields.io/badge/Cocos2d--x-55C2E1?logo=cocos&logoColor=white&style=flat-square)
 ![Spine](https://img.shields.io/badge/Spine_2D-FF4040?logo=spine&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?logo=anthropic&logoColor=white&style=flat-square)
 
 ### Databases & Cache
 
@@ -41,18 +43,18 @@ Building systems and exploring how game servers work has become my biggest passi
 ### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
-![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=white&style=flat-square)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=flat-square)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?logo=windows&logoColor=white&style=flat-square)
+
 ![Vietnix](https://img.shields.io/badge/Vietnix-FF6600?logo=serverfault&logoColor=white&style=flat-square)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 
 ### GitHub Stats
 
