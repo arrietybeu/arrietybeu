@@ -20,7 +20,6 @@ Building systems and exploring how game servers work has become my biggest passi
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=flat-square)
 
 ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?logo=google&logoColor=white&style=flat-square)
-![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=white&style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?logo=grpc&logoColor=white&style=flat-square)
 ![KCP/UDP](https://img.shields.io/badge/KCP%2FUDP-333333?logo=udp&logoColor=white&style=flat-square)
 
@@ -53,8 +52,11 @@ Building systems and exploring how game servers work has become my biggest passi
 
 ![Vietnix](https://img.shields.io/badge/Vietnix-FF6600?logo=serverfault&logoColor=white&style=flat-square)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
+![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=white&style=flat-square)
 
 ### GitHub Stats
 
