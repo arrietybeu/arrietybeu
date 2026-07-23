@@ -178,7 +178,7 @@ def build_info(stats, today):
         "",
         ("HEADER", "Contact"),
         ("Email", "arrietybeu@gmail.com"),
-        ("Discord", "arrietybeu"),
+        ("Discord", "art.arriety"),
         "",
         ("HEADER", "GitHub Stats"),
         ("Commits", twocol(fmt(stats, "commits"), "Followers", fmt(stats, "followers"))),
