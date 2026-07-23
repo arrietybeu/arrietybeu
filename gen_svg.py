@@ -106,9 +106,9 @@ def contributor_stats(repo_names):
     """Lượt đầu gọi hết các repo để GitHub bắt đầu tính song song (202 = đang tính),
     các lượt sau chỉ hỏi lại repo chưa xong, thời gian chờ tăng dần."""
     results, pending = {}, list(repo_names)
-    for round_ in range(8):
-        if round_:
-            time.sleep(5 * round_)
+    deadline = time.time() + 300  # đợi GitHub tính xong tối đa ~5 phút
+    wait = 5
+    while pending:
         still = []
         for name in pending:
             try:
@@ -122,10 +122,15 @@ def contributor_stats(repo_names):
                 still.append(name)
             else:
                 results[name] = extract_contrib(data)
-        if not still:
-            return results
         pending = still
-    raise RuntimeError(f"stats/contributors không sẵn sàng: {', '.join(pending)}")
+        if pending and time.time() >= deadline:
+            # bỏ qua thay vì fail: thiếu 1 repo trong 1 ngày, lần chạy sau tự đủ lại
+            print(f"cảnh báo: stats chưa tính xong, bỏ qua: {', '.join(pending)}")
+            break
+        if pending:
+            time.sleep(wait)
+            wait = min(wait * 2, 60)
+    return results
 
 def fetch_stats():
     if not TOKEN:
