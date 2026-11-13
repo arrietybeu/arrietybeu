@@ -4,3 +4,4 @@
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/arrietybeu/arrietybeu/master/light_mode.svg">
   </picture>
 </a>
+<img src="https://komarev.com/ghpvc/?username=arrietybeu&style=pixel" alt="" width="1" height="1">

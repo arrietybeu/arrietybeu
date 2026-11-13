@@ -10,6 +10,7 @@ Uptime tính từ ngày sinh, stats lấy từ GitHub API:
 import html
 import json
 import os
+import re
 import time
 import urllib.error
 import urllib.request
@@ -132,6 +133,23 @@ def contributor_stats(repo_names):
             wait = min(wait * 2, 60)
     return results
 
+VIEWS_URL = f"https://komarev.com/ghpvc/?username={USER}"
+
+def fetch_views():
+    """Profile views from komarev (read-only; returns None on error)."""
+    try:
+        req = urllib.request.Request(VIEWS_URL, headers={"User-Agent": USER})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            svg = r.read().decode("utf-8")
+        texts = re.findall(r"<text[^>]*>([^<]*)</text>", svg)
+        digits = re.sub(r"\D", "", texts[-1]) if texts else ""
+        if not digits:
+            raise ValueError(f"không tìm thấy số trong badge: {texts!r}")
+        return int(digits)
+    except (urllib.error.URLError, ValueError, UnicodeDecodeError) as e:
+        print(f"cảnh báo: không lấy được profile views: {e}")
+        return None
+
 def fetch_stats():
     if not TOKEN:
         return None
@@ -145,6 +163,7 @@ def fetch_stats():
     return {
         "commits": commits,
         "followers": api(f"/users/{USER}")["followers"],
+        "views": fetch_views(),
         "loc_add": add,
         "loc_del": dele,
     }
@@ -152,12 +171,17 @@ def fetch_stats():
 INFO_WIDTH = 74  # đủ chứa dòng LOC dài (số liệu hàng chục triệu)
 
 def fmt(stats, key):
-    return f"{stats[key]:,}" if stats else "??"
+    v = stats.get(key) if stats else None
+    return f"{v:,}" if v is not None else "??"
 
-def twocol(v1, label2, v2, width=26):
-    head = f"{v1:<4} | {label2}: "
-    dots = max(width - len(head) - len(v2) - 1, 3)
-    return f"{head}{'.' * dots} {v2}"
+def multicol(v1, *cols, width=20):
+    """'v1 | Label2: .... v2 | Label3: .... v3', mỗi cột phụ rộng cố định."""
+    parts = [f"{v1:<4}"]
+    for label, v in cols:
+        head = f"{label}: "
+        dots = max(width - len(head) - len(v) - 1, 3)
+        parts.append(f"{head}{'.' * dots} {v}")
+    return " | ".join(parts)
 
 def loc_values(stats):
     if not stats:
@@ -186,7 +210,11 @@ def build_info(stats, today):
         ("Discord", "art.arriety"),
         "",
         ("HEADER", "GitHub Stats"),
-        ("Commits", twocol(fmt(stats, "commits"), "Followers", fmt(stats, "followers"))),
+        ("Commits", multicol(
+            fmt(stats, "commits"),
+            ("Followers", fmt(stats, "followers")),
+            ("Views", fmt(stats, "views")),
+        )),
         ("LOC", *loc_values(stats)),
     ]
 
